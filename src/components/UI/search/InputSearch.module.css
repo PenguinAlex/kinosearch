@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-.search{
+.Search{
     box-sizing: border-box;
-    background-image: url("../icons/search.svg");
+    background-image: url("../../../icons/search.svg");
     background-repeat: no-repeat;
     background-position: 7px 7px;
     background-color: unset;
@@ -12,5 +12,6 @@
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #D9D9D94D;
-
+    margin-bottom: 16px;
+    width: 100%;
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import classes from "./InputSearch.module.css";
 const InputSearch = () => {
     return (
-        <input type={"text"} className={classes.search} value={''} placeholder="Search"/>
+        <input type={"text"} className={classes.Search} value={''} placeholder="Search"/>
     );
 };
 

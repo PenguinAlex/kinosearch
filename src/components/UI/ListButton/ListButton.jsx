@@ -4,7 +4,7 @@ import classes from "./ListButton.module.css";
 const ListButton = ({icon, value, setActiveList}) => {
     return (
         <button
-            className={classes.listsButton}
+            className={classes.ListsButton}
             onClick={()=>setActiveList}
         >
             <img src={icon} alt={"aaa"}/>
