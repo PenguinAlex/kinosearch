@@ -1,0 +1,15 @@
+.watchlists{
+    flex: 1;
+    max-width: 300px;
+    padding:  32px 16px;
+    display: block;
+    text-align: center;
+}
+
+.title{
+    font-family: 'Archivo', sans-serif;
+    font-weight: 800;
+    font-size: 44px;
+    color: #F33F3F;
+    margin-bottom: 16px;
+}
