@@ -6,8 +6,8 @@ import homeIcon from './UI/icons/home.svg'
 
 const Watchlists = ({lists}) => {
     return (
-        <div className={classes.watchlists}>
-            <h1 className={classes.title}>Watchlists</h1>
+        <div className={classes.Watchlists}>
+            <h1 className={classes.Watchlists_title}>Watchlists</h1>
             <InputSearch/>
             <ListButton value={'qwerty'} icon={homeIcon}/>
         </div>
