@@ -3,10 +3,19 @@
     border-radius: 6px;
     display: flex;
     flex: 1;
-    justify-content: space-between;
     align-items: center;
     width: 100%;
+    background: unset;
+    color: white;
 }
-.ListsButton_active{
-    background: rgba(255, 255, 255, 0.1);
+.ListsButton_text{
+    margin-left: 16px;
+    font-size: 16px;
+
+
+}
+
+.ListsButton_customText{
+    color: #9A9A9A;
+    font-size: 16px;
 }

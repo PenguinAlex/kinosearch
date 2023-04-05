@@ -1,0 +1,10 @@
+.CreateWatchlistButton{
+    background: #F33F3F;
+    border-radius: 6px;
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
