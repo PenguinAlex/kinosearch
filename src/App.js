@@ -28,10 +28,11 @@ const App = () => {
         <div className={classes.App}>
           <Watchlists
               activeList={activeList}
+              setActiveList={setActiveList}
               lists={lists}
               setLists={setLists}
           />
-            <Main/>
+            <Main activeList={activeList}/>
         </div>
     );
 };
